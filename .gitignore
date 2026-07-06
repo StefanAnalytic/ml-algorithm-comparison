@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac OS Müll
+.DS_Store
+
+# Rohdaten (niemals Daten auf GitHub pushen!)
+data/train.csv
+GLM/data/train.csv
